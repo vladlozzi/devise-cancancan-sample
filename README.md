@@ -1,19 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Ruby version: 3 or higher
 
-Things you may want to cover:
+* System dependencies: rails 7 or higher
 
-* Ruby version
+* Configuration: devise and cancancan gems required
 
-* System dependencies
+* Database creation: rails db:create
 
-* Configuration
-
-* Database creation
-
-* Database initialization
+* Database initialization: rails db:seed
 
 * How to run the test suite
 
@@ -22,3 +17,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+# devise-cancancan-sample
